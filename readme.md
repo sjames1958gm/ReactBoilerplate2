@@ -1,1 +1,1 @@
-React Timer Application
+React Boiler Plate
